@@ -47,7 +47,7 @@
 
            git clone 저장소 주소     [ENTER]  : 저장소명으로 새폴더 생성,복제
            git clone 저장소 주소 .    [ENTER] : 현재 위치에 그대로 복제
-           git clone --branch 브랜치명 저장소 [.] : 특정 브랜치만 복제
+           git clone --branch 브랜치명 저장소 [.] : 특정 브랜치만 복제1
 
 
         
